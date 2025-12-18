@@ -1,7 +1,7 @@
 # Rugma-Purushothaman
 
 **Forensics Analyst | Cyber Forensics**
-Former **Assistant Professor**
+| Former **Assistant Professor**
 Palakkad, Kerala, India
 
 **About Me**
