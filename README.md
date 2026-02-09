@@ -1,18 +1,76 @@
-# 💫 About Me:
-JUNIOR DIGITAL FORENSIC ANALYST<br>FORMER ASSISTANT PROFESSOR<br>PALO ALTO CERTIFIED INSTRUCTOR
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RUGMA PURUSHOTHAMAN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rugmapurushothaman00@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RUGMAPURUSHOTHAMAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RUGMAPURUSHOTHAMAN&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RUGMAPURUSHOTHAMAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=RUGMA PURUSHOTHAMAN&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Rugma-Purushothaman
+Forensics Analyst | Cyber Forensics | Former Assistant Professor Palakkad, Kerala, India
+About Me
+I am a Cyber Forensics Analyst with hands-on experience in digital evidence acquisition, phishing investigation, IOC analysis, and forensic reporting. I previously worked as an Assistant Professor, where I combined academic rigor with real-world cyber forensic practices through labs, simulations, and student mentoring. My interests lie in digital forensics, forensic analysis of systems and data, and methodical evidence examination, with a strong focus on documentation standards, technical accuracy, and continuous learning.
+Technical Skills
+Digital & Cyber Forensics
+•	Disk, Mobile, and Endpoint Forensics
+•	Digital Evidence Acquisition & Reporting
+•	Phishing & Financial Fraud Investigation
+•	IOC Identification and Correlation
+Network & Security Tools
+•	Wireshark, Snort, Nmap, tcpdump
+•	OWASP ZAP, Nikto, Burp Suite, Metasploit
+Frameworks & Standards
+•	MITRE ATT&CK
+•	NIST Cyber Security Framework (CSF)
+•	CIS Benchmarks
+Platforms & Programming
+•	OS: Windows, Ubuntu, Kali Linux
+•	Programming: Python, PHP, JavaScript
+•	Databases: MySQL
+Professional Experience
+Assistant Professor
+Sree Saraswathi Thyagaraja College, Pollachi Oct 2023 – Mar 2025
+•	Designed and delivered hands-on labs in Malware Analysis, Cryptography, and AI for Cyber Security
+•	Mentored 55+ students in packet capture, red team simulations, and threat analysis using Wireshark
+•	Launched and coordinated the Cyber Security Club
+•	Organized a college-wide CTF event with 35+ participants
+•	Conducted cyber awareness programs on phishing, password security, and incident response
+Internships
+Cyber Intern
+Kerala Police Cyber Cell, Ernakulam – Aug 2023
+•	Assisted in technical analysis of phishing and online fraud incidents
+•	Identified indicators of compromise (IOCs) relevant to forensic analysis
+•	Supported digital evidence handling, documentation, and reporting
+•	Assisted in darknet monitoring and mobile forensic analysis
+Cyber Intern
+Kerala Cyber Police Station, Palakkad – Mar 2022
+•	Assisted officers in digital evidence collection and preservation
+•	Supported technical IP trace-back and network activity analysis
+•	Documented phishing and financial fraud cases for investigation records
+Projects
+CryptoFog – Secure IoT–Fog–Cloud Architecture
+•	Developed a secure data transmission model using PHP, MySQL, and JavaScript
+•	Enhanced encrypted communication suitable for forensic-safe architectures
+•	Simulated DoS attacks and documented system behavior for analysis
+Education
+•	MSc Cyber Forensics – School of Technology & Applied Science, Ernakulam 6th Rank – Mahatma Gandhi University (2021–2023)
+•	BSc Computer Science – Yuvakshetra Institute of Management & Studies, Palakkad (2018–2021)
+Certifications
+•	Palo Alto Networks – Cloud Security Fundamentals
+•	Palo Alto Networks – SASE Fundamentals
+•	Palo Alto Networks – Security Operations Fundamentals
+•	Palo Alto Networks – Enterprise Security Deployment
+•	arcX – Foundation Level Threat Intelligence Analyst
+•	Cyber Security – CERT Kerala & IIITMK
+Achievements & Roles
+•	Coordinator – Cyber Security Club
+•	Palo Alto Networks Authorized Cyber Security Academy Instructor
+•	Invited Resource Person – Social Engineering Awareness
+•	Mentored 55+ students in Malware Analysis and Network Security
+•	Member – IAENG (International Association of Engineers)
+Soft Skills
+•	Analytical Thinking & Problem Solving
+•	Log Analysis & Structured Documentation
+•	Clear Communication with Technical & Non-Technical Teams
+•	High Attention to Detail
+•	Team Collaboration Under Pressure
+Languages
+•	Malayalam (Native)
+•	English
+•	Hindi
+•	Tamil
+Contact
+•	Email: rugmapurushothaman00@gmail.com
+•	LinkedIn: https://linkedin.com/in/rugmapurushothaman
