@@ -7,7 +7,7 @@ Palakkad, Kerala, India
 
 ## Professional Summary
 
-I am a Cyber Forensics Analyst with practical experience in digital evidence acquisition, forensic reporting, phishing investigation, and IOC analysis. I previously worked as an Assistant Professor, where I combined academic expertise with applied cyber forensic training through labs, simulations, and student mentoring.
+I am a Junior Cyber Forensic Analyst with practical experience in digital investigations, forensic evidence acquisition, analysis, and reporting. My work includes handling Windows, mobile, and storage device investigations while maintaining evidence integrity and chain of custody. I previously served as an Assistant Professor, where I taught cybersecurity subjects and mentored students through hands-on labs, CTFs, and cyber awareness programs. I enjoy building DFIR tools, automating forensic tasks, and continuously expanding my cybersecurity knowledge.
 
 My interests include structured forensic analysis, evidence integrity, and continuous learning in cyber security and digital investigations.
 
@@ -38,6 +38,18 @@ My interests include structured forensic analysis, evidence integrity, and conti
 ---
 
 ## Professional Experience
+
+**Junior Cyber Forensic Analyst**
+
+Alibi Global 
+
+(Nov 2025 – Present)
+
+- Conduct digital forensic investigations on computers, mobile devices, and storage media.
+- Acquire and preserve digital evidence while maintaining forensic integrity and chain of custody.
+- Analyze forensic artifacts and prepare technical investigation reports.
+- Support law enforcement and organizational investigations through forensic analysis.
+- Deliver technical demonstrations and provide training on digital forensic tools and workflows.
 
 ### Assistant Professor  
 Sree Saraswathi Thyagaraja College, Pollachi  
